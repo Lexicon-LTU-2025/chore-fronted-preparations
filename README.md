@@ -1,4 +1,4 @@
-# Preparatory Exercise: NVM, Vite JS and TypeScript Setup
+# Preparatory Chore: NVM, Vite JS and TypeScript Setup
 
 <details open>
 <summary>Table of contents</summary>
